@@ -1,2 +1,1 @@
-# DataScienceBowl
-https://www.kaggle.com/c/second-annual-data-science-bowl
+# 2nd Annual Data Science Bowl Tutorial 
