@@ -6,6 +6,9 @@
 # Ignore the temp csv files
 *.csv
 
+# Ignore prototxt files
+*.prototxt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
