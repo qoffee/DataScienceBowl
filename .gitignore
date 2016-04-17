@@ -1,3 +1,11 @@
+# Ignore the data
+/data
+/input
+/output
+
+# Ignore the temp csv files
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
